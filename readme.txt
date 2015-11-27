@@ -8,3 +8,5 @@ study
 checkout fast forward
 check again. it works
 go on
+
+/usr/bin/env
