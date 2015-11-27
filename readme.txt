@@ -8,3 +8,4 @@ study
 checkout fast forward
 check again. it works
 go on
+add coding: utf-8
