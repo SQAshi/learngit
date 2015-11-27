@@ -6,3 +6,4 @@ Creating a new branch is quick and simple.
 >>>>>>> feature1
 study
 checkout fast forward
+check again
