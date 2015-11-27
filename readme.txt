@@ -7,3 +7,4 @@ Creating a new branch is quick and simple.
 study
 checkout fast forward
 check again. it works
+go on
